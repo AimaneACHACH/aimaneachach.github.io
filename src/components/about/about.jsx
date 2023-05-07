@@ -31,7 +31,7 @@ const About = () => {
             <article className='about__card'>
               <BsTools className='about__icon'/>
               <h5>Tools</h5>
-              <small>HTML, CSS, JS, Firebase, Python, Java, C, C++, Git, SQL</small>
+              <small>React, Firebase, Git</small>
             </article>
             
             <article className='about__card'>

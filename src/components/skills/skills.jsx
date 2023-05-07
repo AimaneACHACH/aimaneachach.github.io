@@ -10,6 +10,7 @@ import {BsFiletypeSql} from 'react-icons/bs'
 import {SiFirebase} from 'react-icons/si'
 import {BsGit} from 'react-icons/bs'
 import {SiCplusplus} from 'react-icons/si'
+import {SiReact} from 'react-icons/si'
 
 
 
@@ -34,6 +35,10 @@ const Skills = () => {
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
               <h4>JavaScript <SiJavascript/></h4>
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>ReactJs <SiReact/></h4>
             </div></article>
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
