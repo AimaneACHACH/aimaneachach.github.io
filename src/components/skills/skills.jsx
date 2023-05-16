@@ -16,6 +16,8 @@ import {SiAdobephotoshop} from 'react-icons/si'
 import {SiAdobeaftereffects} from 'react-icons/si'
 import {SiAdobepremierepro} from 'react-icons/si'
 import {SiArduino} from 'react-icons/si'
+import {VscTerminalLinux} from 'react-icons/vsc'
+
 
 
 
@@ -73,6 +75,10 @@ const Skills = () => {
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
               <h4>Arduino <SiArduino/></h4> 
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>KVM <VscTerminalLinux/></h4> 
             </div></article>
           </div>
         </div>

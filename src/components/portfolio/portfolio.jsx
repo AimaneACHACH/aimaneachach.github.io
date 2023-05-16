@@ -3,6 +3,7 @@ import './portfolio.css'
 import Weather from '../../assets/projects/weather.png'
 import Quotes from '../../assets/projects/quote.png'
 import ThisSite from '../../assets/projects/ThisSite.png'
+import FileSystem from "../../assets/projects/fileSystem.png"
 import Wegiv2 from '../../assets/projects/wegiv2.png'
 import { useState } from 'react'
 import Wegiv1 from '../../assets/projects/wegiv1.png'
@@ -95,6 +96,13 @@ const Portfolio = () => {
           <h3>Random Quote Generator</h3>
           <div className='cta'><a href="https://github.com/AimaneACHACH/random-quote-mchine" className='btn' target='_blank' rel="noreferrer">Github</a>
           <a href="https://aimaneachach.github.io/random-quote-mchine/" className='btn primary' target='_blank' rel="noreferrer">Take a look</a></div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={FileSystem} alt="" />
+          </div>
+          <h3>Virtual File System</h3>
+          <div className='cta'><a href="https://github.com/AimaneACHACH/fileSystem" className='btn' target='_blank' rel="noreferrer">Github</a></div>
         </article>
       </div>
     </section>
