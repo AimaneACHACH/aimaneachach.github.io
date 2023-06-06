@@ -17,6 +17,10 @@ import {SiAdobeaftereffects} from 'react-icons/si'
 import {SiAdobepremierepro} from 'react-icons/si'
 import {SiArduino} from 'react-icons/si'
 import {VscTerminalLinux} from 'react-icons/vsc'
+import {SiCanva} from 'react-icons/si'
+import {AiFillAndroid} from 'react-icons/ai'
+
+
 
 
 
@@ -62,6 +66,10 @@ const Skills = () => {
             </div></article>
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>Android Studio <AiFillAndroid/></h4> 
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
               <h4>SQL <BsFiletypeSql/></h4> 
             </div></article>
             <article className='skills__details'>
@@ -101,6 +109,10 @@ const Skills = () => {
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
               <h4>Premier Pro <SiAdobepremierepro/></h4>
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>Canva <SiCanva/></h4>
             </div></article>
           </div>
         </div>

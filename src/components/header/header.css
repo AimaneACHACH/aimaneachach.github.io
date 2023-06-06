@@ -68,29 +68,33 @@ header{
     text-align: right;
     width: 20em;
     position: absolute;
-    left: 3rem;
+    left: 1rem;
     top: 18rem;
+    width: 30%;
 }
 .resumeElement2{
     text-align: left;
     width: 20em;
     position: absolute;
-    right: 2rem;
+    right: 0rem;
     top: 20rem;
+    width: 30%;
 }
 .resumeElement3{
     text-align: right;
     width: 20em;
     position: absolute;
-    left: 2rem;
+    left: 0rem;
     top: 27rem;
+    width: 30%;
 }
 .resumeElement4{
     text-align: left;
     width: 20em;
     position: absolute;
-    right: 3rem;
+    right: 1rem;
     top: 28.5rem;
+    width: 30%;
 }
 .resumeElement1:hover,.resumeElement2:hover,.resumeElement3:hover,.resumeElement4:hover{
     color:var(--color-primary);

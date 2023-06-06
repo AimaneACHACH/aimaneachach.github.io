@@ -12,6 +12,8 @@ import Wegiv4 from '../../assets/projects/wegiv4.png'
 import Wegiv5 from '../../assets/projects/wegiv5.png'
 import Wegiv6 from '../../assets/projects/wegiv6.png'
 import Wegiv7 from '../../assets/projects/wegiv7.png'
+import Pre from '../../assets/projects/Markdown-Previewer.png'
+
 // import Swiper core and required modules
 import { Pagination , Navigation} from 'swiper';
 
@@ -96,6 +98,14 @@ const Portfolio = () => {
           <h3>Random Quote Generator</h3>
           <div className='cta'><a href="https://github.com/AimaneACHACH/random-quote-mchine" className='btn' target='_blank' rel="noreferrer">Github</a>
           <a href="https://aimaneachach.github.io/random-quote-mchine/" className='btn primary' target='_blank' rel="noreferrer">Take a look</a></div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={Pre} alt="" />
+          </div>
+          <h3>Markdown Previewer</h3>
+          <div className='cta'><a href="https://github.com/AimaneACHACH/markdownpreviewer" className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href="https://aimaneachach.github.io/markdownpreviewer/" className='btn primary' target='_blank' rel="noreferrer">Take a look</a></div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
