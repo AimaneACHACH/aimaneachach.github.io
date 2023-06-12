@@ -53,7 +53,7 @@ const Contact = () => {
           <textarea name="message" rows="7" placeholder='Your Message : Feel Free !' required></textarea>
           <button type='submit' className='btn btn-primary'><div className="send">Send</div></button>
           <div className='socials'>
-            <a href="https://www.linkedin.com/in/aimane-achach-6739b3251/" target='_blank' rel="noreferrer"><BsLinkedin/></a>
+            <a href="https://www.linkedin.com/in/aimane-achach/" target='_blank' rel="noreferrer"><BsLinkedin/></a>
             <a href="https://github.com/AimaneACHACH/" target='_blank' rel="noreferrer"><FaGithub/></a>
           </div>
           {emailSent && (
