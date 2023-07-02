@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6f7cf842.css",
-    "main.js": "/static/js/main.a21ea39d.js",
+    "main.js": "/static/js/main.d1b25bff.js",
     "static/media/weather.png": "/static/media/weather.97095df4501d434c6ec5.png",
     "static/media/photo.jpg": "/static/media/photo.5aa3c54dcaa53fbbaf61.jpg",
     "static/media/wegiv4.png": "/static/media/wegiv4.697729a9c67f7ef4ca06.png",
@@ -11,7 +11,7 @@
     "static/media/quote.png": "/static/media/quote.06998fc66b885645e8eb.png",
     "static/media/ThisSite.png": "/static/media/ThisSite.5701a609fdbe347b50e9.png",
     "static/media/me1.jpg": "/static/media/me1.95c457214a25b4a4fbe4.jpg",
-    "static/media/mycv.pdf": "/static/media/mycv.3e9cc93ee811c2b4b74c.pdf",
+    "static/media/mycv.pdf": "/static/media/mycv.b456102e90c83457fe8c.pdf",
     "static/media/wegiv3.png": "/static/media/wegiv3.a6bece8354281f2648e8.png",
     "static/media/wegiv6.png": "/static/media/wegiv6.71f1af36710c650acd61.png",
     "static/media/wegiv5.png": "/static/media/wegiv5.d36b735bdaf23a22de65.png",
@@ -19,10 +19,10 @@
     "static/media/me2.jpg": "/static/media/me2.2515e739eeeccd32099d.jpg",
     "index.html": "/index.html",
     "main.6f7cf842.css.map": "/static/css/main.6f7cf842.css.map",
-    "main.a21ea39d.js.map": "/static/js/main.a21ea39d.js.map"
+    "main.d1b25bff.js.map": "/static/js/main.d1b25bff.js.map"
   },
   "entrypoints": [
     "static/css/main.6f7cf842.css",
-    "static/js/main.a21ea39d.js"
+    "static/js/main.d1b25bff.js"
   ]
 }
