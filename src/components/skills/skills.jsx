@@ -19,6 +19,10 @@ import {SiArduino} from 'react-icons/si'
 import {VscTerminalLinux} from 'react-icons/vsc'
 import {SiCanva} from 'react-icons/si'
 import {AiFillAndroid} from 'react-icons/ai'
+import {FaAws} from 'react-icons/fa'
+import {SiTerraform} from 'react-icons/si'
+import {FaDocker} from 'react-icons/fa'
+
 
 
 
@@ -87,6 +91,18 @@ const Skills = () => {
             <article className='skills__details'>
              <IoMdDoneAll className='skills__details-icon'/><div>
               <h4>KVM <VscTerminalLinux/></h4> 
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>AWS <FaAws/></h4> 
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>Terraform <SiTerraform/></h4> 
+            </div></article>
+            <article className='skills__details'>
+             <IoMdDoneAll className='skills__details-icon'/><div>
+              <h4>Docker <FaDocker/></h4> 
             </div></article>
           </div>
         </div>

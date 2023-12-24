@@ -31,7 +31,7 @@ const About = () => {
             <article className='about__card'>
               <BsTools className='about__icon'/>
               <h5>Tools</h5>
-              <small>React, Firebase, Git</small>
+              <small>React, Firebase, Git, AWS, Terraform</small>
             </article>
             
             <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
               <small>Experienced with few school and personal project</small>
             </article>
           </div>
-          <p className='aboutP'>"I am a full-time computer science student at INPT, specializing in cloud and IoT engineering. I have experience in web development and programming with Python, Java, and other languages. As a robotics enthusiast, I am comfortable with C++. Additionally, I have experience in design, as I frequently use Adobe CC in my hobbies, which include videography, compositing, and photography.🙂" </p>
+          <p className='aboutP'>"As a full-time computer science student specializing in cloud and IoT engineering at INPT, I bring a wealth of knowledge and enthusiasm to the table. With a solid background in cloud computing and services, web development and programming languages such as Python, Java etc. I am comfortable tackling complex challenges in these areas. Furthermore, my passion for robotics has led me to become proficient in C++, allowing me to explore the intersection of software and hardware. In addition to my technical skills, I have a creative side, frequently using Adobe CC to pursue my hobbies of videography, compositing, and photography. I am excited to connect with like-minded professionals and contribute to innovative projects in the field.🙂" </p>
           <a href="#contact" className='btn primary'>Let's talk</a>
         </div>
       </div>
