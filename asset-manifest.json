@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6f7cf842.css",
-    "main.js": "/static/js/main.721a0e07.js",
+    "main.js": "/static/js/main.3c8a9b27.js",
     "static/media/photo.jpg": "/static/media/photo.11bfc620ff7b7e70e852.jpg",
     "static/media/weather.png": "/static/media/weather.1761b753e9dd66d27c36.png",
     "static/media/wegiv4.png": "/static/media/wegiv4.8c9e92b54a9eb65cccd2.png",
@@ -10,8 +10,8 @@
     "static/media/wegiv1.png": "/static/media/wegiv1.4a71524d9cccb4b41c28.png",
     "static/media/wegiv2.png": "/static/media/wegiv2.8548eb20bd963635d857.png",
     "static/media/me1.jpg": "/static/media/me1.01fb9771a5216d9fad96.jpg",
-    "static/media/mycv.pdf": "/static/media/mycv.5c6a1140d815013c2c9c.pdf",
     "static/media/ThisSite.png": "/static/media/ThisSite.92b0c0cb31c0487bf2ec.png",
+    "static/media/mycv.pdf": "/static/media/mycv.2c2a3fc7dffafa3e1e10.pdf",
     "static/media/wegiv3.png": "/static/media/wegiv3.d9b829983e5de0fdaf7e.png",
     "static/media/wegiv6.png": "/static/media/wegiv6.72a2de11f6ba217c07ed.png",
     "static/media/wegiv5.png": "/static/media/wegiv5.d1d9f50eb73cc99e6207.png",
@@ -19,10 +19,10 @@
     "static/media/Markdown-Previewer.png": "/static/media/Markdown-Previewer.8fe85f6130026afa65fa.png",
     "index.html": "/index.html",
     "main.6f7cf842.css.map": "/static/css/main.6f7cf842.css.map",
-    "main.721a0e07.js.map": "/static/js/main.721a0e07.js.map"
+    "main.3c8a9b27.js.map": "/static/js/main.3c8a9b27.js.map"
   },
   "entrypoints": [
     "static/css/main.6f7cf842.css",
-    "static/js/main.721a0e07.js"
+    "static/js/main.3c8a9b27.js"
   ]
 }
